@@ -3,3 +3,7 @@ An end-to-end data intelligence platform integrating analytics, machine learning
 
 # Member
 Ryan, fayzul, Nicki
+
+---
+
+🚧 This Project is always under construction — stay tuned for more updates!
